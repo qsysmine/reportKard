@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReportKard/ViewControllers/Views/Onboarding/FindDistrictViewController.swift"
+            timestampString = "519434826.04952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "FindDistrictViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of ReportKard.FindDistrictViewController.url : Swift.String"
+                  moduleName = "ReportKard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qsysmine/Dev/iOS/ReportKard/ReportKard/ViewControllers/Views/Onboarding/FindDistrictViewController.swift"
+                  timestampString = "519154540.592129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReportKard.FindDistrictViewController.url.getter : Swift.String"
+                  moduleName = "ReportKard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qsysmine/Dev/iOS/ReportKard/ReportKard/ViewControllers/Views/Onboarding/FindDistrictViewController.swift"
+                  timestampString = "519154540.594156"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReportKard.FindDistrictViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.Bundle&gt;) -&gt; ReportKard.FindDistrictViewController"
+                  moduleName = "ReportKard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qsysmine/Dev/iOS/ReportKard/ReportKard/ViewControllers/Views/Onboarding/FindDistrictViewController.swift"
+                  timestampString = "519154540.595813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReportKard.FindDistrictViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ReportKard.FindDistrictViewController&gt;"
+                  moduleName = "ReportKard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qsysmine/Dev/iOS/ReportKard/ReportKard/ViewControllers/Views/Onboarding/FindDistrictViewController.swift"
+                  timestampString = "519154540.59874"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

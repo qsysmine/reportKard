@@ -1,0 +1,15 @@
+PODS:
+  - KeychainSwift (8.0.2)
+  - SWXMLHash (4.0.0)
+
+DEPENDENCIES:
+  - KeychainSwift (~> 8.0)
+  - SWXMLHash (= 4.0.0)
+
+SPEC CHECKSUMS:
+  KeychainSwift: 213db04dfe7244988e61f77c72a2afb2f775954a
+  SWXMLHash: 6bbc0bf72975a18ceda469fb7d6a886a26d81694
+
+PODFILE CHECKSUM: 537f1c76d3127b53783004581b5a5f9721a7062f
+
+COCOAPODS: 1.2.1
